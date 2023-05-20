@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NatanaelPereira
 - 👀 I’m interested in Banco de dados
-- 🌱 I’m currently learning javaescript, mysql
+- 🌱 I’m currently learning javascript, mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
